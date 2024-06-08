@@ -60,7 +60,7 @@ Pikachu 项目是一个专门为支持 OB11 规范的协议端设计的中转信
 
 
 
-[NapCatQQ](https://github.com/NapNeko/NapCatQQ)
+## [NapCatQQ](https://github.com/NapNeko/NapCatQQ)
 
 介绍:基于NTQQ的无头Bot框架
 
