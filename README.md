@@ -22,7 +22,7 @@ Pikachu 项目是一个专门为支持 OB11 规范的协议端设计的中转信
 
 # 框架及SDK下载地址
 
-[https://wwl.lanzouo.com/b00b3na0uj](https://wwl.lanzouo.com/b00b3na0uj密码:1hmz)
+[https://wwl.lanzouo.com/b00b3na0uj](https://wwl.lanzouo.com/b00b3na0uj)
 
 密码:1hmz
 
