@@ -1,4 +1,4 @@
-![p.qlogo.jpg](image/p.qlogo.jpg)
+![p.qlogo.jpg]([image/p.qlogo.jpg](https://github.com/MoonSeaFishCat/PikachuNT/blob/main/image/p.qlogo.jpg))
 
 # 项目简介
 
