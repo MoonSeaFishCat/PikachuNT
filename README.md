@@ -1,4 +1,4 @@
-![p.qlogo.jpg]([image/p.qlogo.jpg](https://github.com/MoonSeaFishCat/PikachuNT/blob/main/image/p.qlogo.jpg))
+![图片](https://github.com/MoonSeaFishCat/PikachuNT/assets/130481300/67eab13d-38d6-4a2e-a030-a51660ab63a3)
 
 # 项目简介
 
@@ -84,7 +84,8 @@ NapCatQQ 是基于 PC NTQQ 本体实现一套无头 Bot 框架。
 
 3.如下图进行配置
 
-![图片.png](image/图片.png)
+![图片](https://github.com/MoonSeaFishCat/PikachuNT/assets/130481300/329ff22b-aba8-45d7-ad2d-020c5874cc81)
+
 
 如果 QQ在本地 框架在服务器 那么就把添加账号时的IP改成公网IP
 
@@ -92,7 +93,8 @@ NapCatQQ 是基于 PC NTQQ 本体实现一套无头 Bot 框架。
 
 4.配置完成
 
-![图片.png](image/图片 1.png)
+![图片](https://github.com/MoonSeaFishCat/PikachuNT/assets/130481300/ca50d1bc-c4dd-4428-a9be-46c2becb78db)
 
-![图片.png](image/图片 2.png)
+
+![图片](https://github.com/MoonSeaFishCat/PikachuNT/assets/130481300/7609cce6-6d8e-479f-bd6e-ee63c7fccd7d)
 
