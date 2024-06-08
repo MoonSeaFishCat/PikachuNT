@@ -67,9 +67,9 @@ Pikachu 项目是一个专门为支持 OB11 规范的协议端设计的中转信
 
 NapCatQQ 是基于 PC NTQQ 本体实现一套无头 Bot 框架。
 
-名字寓意 瞌睡猫QQ，像睡着了一样在后台低占用运行的无需GUI界面的NTQQ。
-项目地址：
-[https://github.com/NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)
+名字寓意 瞌睡猫QQ，像睡着了一样在后台低占用运行的无需GUI界面的NTQQ。<br />
+项目地址：<br />
+[https://github.com/NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ)<br />
 
 项目文档：
 
