@@ -22,8 +22,7 @@ Pikachu 项目是一个专门为支持 OB11 规范的协议端设计的中转信
 
 # 框架及SDK下载地址
 
-[https://wwl.lanzouo.com/b00b3na0uj](https://wwl.lanzouo.com/b00b3na0uj
-密码:1hmz)
+[https://wwl.lanzouo.com/b00b3na0uj](https://wwl.lanzouo.com/b00b3na0uj密码:1hmz)
 
 密码:1hmz
 
@@ -35,13 +34,13 @@ Pikachu 项目是一个专门为支持 OB11 规范的协议端设计的中转信
 
 ## [LLOneBot](https://github.com/LLOneBot/LLOneBot)
 
-介绍：使你的NTQQ支持OneBot11协议进行QQ机器人开发
-项目地址：[https://github.com/LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot)
-备注：基本上不会冻结和屏蔽。适用于群管类或者娱乐类，不存在任何违规API，可放心使用，推荐使用这个
-项目文档：
-[https://llonebot.github.io/zh-CN/develop/api](https://llonebot.github.io/zh-CN/develop/api)
+介绍：使你的NTQQ支持OneBot11协议进行QQ机器人开发<br />
+项目地址：[https://github.com/LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot)<br />
+备注：基本上不会冻结和屏蔽。适用于群管类或者娱乐类，不存在任何违规API，可放心使用，推荐使用这个<br />
+项目文档：<br />
+[https://llonebot.github.io/zh-CN/develop/api](https://llonebot.github.io/zh-CN/develop/api)<br />
 
-一键安装地址：
+一键安装地址：<br />
 
 [https://github.com/super1207/install_llob/releases/download/0.0.3/llob_install.exe](https://github.com/super1207/install_llob/releases/download/0.0.3/llob_install.exe)
 
